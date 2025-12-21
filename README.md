@@ -7,3 +7,4 @@
 ◼️Языки и инструменты:
 Python🐍/Linux🐧/C/C++🧑‍💻/GitHub🖥️
 
+![status](kotf.png)
