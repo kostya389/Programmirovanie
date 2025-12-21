@@ -7,4 +7,3 @@
 ◼️Языки и инструменты:
 Python🐍/Linux🐧/C/C++🧑‍💻/GitHub🖥️
 
-![status](prog.avif)
